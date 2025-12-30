@@ -1,6 +1,10 @@
 # F1 Track Map Generator
 
-A Python-based GUI application that generates Formula 1 track maps using real telemetry data from the [FastF1](https://github.com/theOehrly/Fast-F1) library. The application visualizes the track layout and highlights the three distinct sectors (Sector 1, 2, and 3).
+A Python-based GUI application that generates Formula 1 track maps using real telemetry data from the [FastF1](https://github.com/theOehrly/Fast-F1) library. The application visualises the track layout and highlights the three distinct sectors (Sector 1, 2, and 3).
+
+## Screenshot
+<img width="1489" height="994" alt="image" src="https://github.com/user-attachments/assets/e5cb66f6-eba5-450d-ab43-d07d7befb4da" />
+
 
 ## Features
 
@@ -31,7 +35,7 @@ A Python-based GUI application that generates Formula 1 track maps using real te
 ```bash
 python f1_track_map.py
 ```
-(Replace f1_track_map.py with whatever you named your python file)
+(Replace f1_track_map.py with whatever you named your Python file)
 
 2. Select Options:
 
